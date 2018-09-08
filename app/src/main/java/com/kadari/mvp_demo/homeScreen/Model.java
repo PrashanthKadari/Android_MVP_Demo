@@ -2,5 +2,5 @@ package com.kadari.mvp_demo.homeScreen;
 
 public class Model {
 
-    private String field13;
+    private String field;
 }
